@@ -1,0 +1,617 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7F7EE766291726EE00338D86 /* Food_Scheduler_SwiftApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F7EE765291726EE00338D86 /* Food_Scheduler_SwiftApp.swift */; };
+		7F7EE768291726EE00338D86 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F7EE767291726EE00338D86 /* ContentView.swift */; };
+		7F7EE76A291726EF00338D86 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F7EE769291726EF00338D86 /* Assets.xcassets */; };
+		7F7EE76E291726EF00338D86 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F7EE76D291726EF00338D86 /* Preview Assets.xcassets */; };
+		7F7EE778291726EF00338D86 /* Food_Scheduler_SwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F7EE777291726EF00338D86 /* Food_Scheduler_SwiftTests.swift */; };
+		7F7EE782291726EF00338D86 /* Food_Scheduler_SwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F7EE781291726EF00338D86 /* Food_Scheduler_SwiftUITests.swift */; };
+		7F7EE784291726EF00338D86 /* Food_Scheduler_SwiftUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F7EE783291726EF00338D86 /* Food_Scheduler_SwiftUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		7F7EE774291726EF00338D86 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 7F7EE75A291726EE00338D86 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 7F7EE761291726EE00338D86;
+			remoteInfo = "Food Scheduler Swift";
+		};
+		7F7EE77E291726EF00338D86 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 7F7EE75A291726EE00338D86 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 7F7EE761291726EE00338D86;
+			remoteInfo = "Food Scheduler Swift";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		7F7EE762291726EE00338D86 /* Food Scheduler Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Food Scheduler Swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7F7EE765291726EE00338D86 /* Food_Scheduler_SwiftApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Food_Scheduler_SwiftApp.swift; sourceTree = "<group>"; };
+		7F7EE767291726EE00338D86 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		7F7EE769291726EF00338D86 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		7F7EE76B291726EF00338D86 /* Food_Scheduler_Swift.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Food_Scheduler_Swift.entitlements; sourceTree = "<group>"; };
+		7F7EE76D291726EF00338D86 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7F7EE773291726EF00338D86 /* Food Scheduler SwiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Food Scheduler SwiftTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7F7EE777291726EF00338D86 /* Food_Scheduler_SwiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Food_Scheduler_SwiftTests.swift; sourceTree = "<group>"; };
+		7F7EE77D291726EF00338D86 /* Food Scheduler SwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Food Scheduler SwiftUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7F7EE781291726EF00338D86 /* Food_Scheduler_SwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Food_Scheduler_SwiftUITests.swift; sourceTree = "<group>"; };
+		7F7EE783291726EF00338D86 /* Food_Scheduler_SwiftUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Food_Scheduler_SwiftUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7F7EE75F291726EE00338D86 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7F7EE770291726EF00338D86 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7F7EE77A291726EF00338D86 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7F7EE759291726EE00338D86 = {
+			isa = PBXGroup;
+			children = (
+				7F7EE764291726EE00338D86 /* Food Scheduler Swift */,
+				7F7EE776291726EF00338D86 /* Food Scheduler SwiftTests */,
+				7F7EE780291726EF00338D86 /* Food Scheduler SwiftUITests */,
+				7F7EE763291726EE00338D86 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		7F7EE763291726EE00338D86 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7F7EE762291726EE00338D86 /* Food Scheduler Swift.app */,
+				7F7EE773291726EF00338D86 /* Food Scheduler SwiftTests.xctest */,
+				7F7EE77D291726EF00338D86 /* Food Scheduler SwiftUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		7F7EE764291726EE00338D86 /* Food Scheduler Swift */ = {
+			isa = PBXGroup;
+			children = (
+				7F7EE765291726EE00338D86 /* Food_Scheduler_SwiftApp.swift */,
+				7F7EE767291726EE00338D86 /* ContentView.swift */,
+				7F7EE769291726EF00338D86 /* Assets.xcassets */,
+				7F7EE76B291726EF00338D86 /* Food_Scheduler_Swift.entitlements */,
+				7F7EE76C291726EF00338D86 /* Preview Content */,
+			);
+			path = "Food Scheduler Swift";
+			sourceTree = "<group>";
+		};
+		7F7EE76C291726EF00338D86 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				7F7EE76D291726EF00338D86 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		7F7EE776291726EF00338D86 /* Food Scheduler SwiftTests */ = {
+			isa = PBXGroup;
+			children = (
+				7F7EE777291726EF00338D86 /* Food_Scheduler_SwiftTests.swift */,
+			);
+			path = "Food Scheduler SwiftTests";
+			sourceTree = "<group>";
+		};
+		7F7EE780291726EF00338D86 /* Food Scheduler SwiftUITests */ = {
+			isa = PBXGroup;
+			children = (
+				7F7EE781291726EF00338D86 /* Food_Scheduler_SwiftUITests.swift */,
+				7F7EE783291726EF00338D86 /* Food_Scheduler_SwiftUITestsLaunchTests.swift */,
+			);
+			path = "Food Scheduler SwiftUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		7F7EE761291726EE00338D86 /* Food Scheduler Swift */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7F7EE787291726EF00338D86 /* Build configuration list for PBXNativeTarget "Food Scheduler Swift" */;
+			buildPhases = (
+				7F7EE75E291726EE00338D86 /* Sources */,
+				7F7EE75F291726EE00338D86 /* Frameworks */,
+				7F7EE760291726EE00338D86 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Food Scheduler Swift";
+			productName = "Food Scheduler Swift";
+			productReference = 7F7EE762291726EE00338D86 /* Food Scheduler Swift.app */;
+			productType = "com.apple.product-type.application";
+		};
+		7F7EE772291726EF00338D86 /* Food Scheduler SwiftTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7F7EE78A291726EF00338D86 /* Build configuration list for PBXNativeTarget "Food Scheduler SwiftTests" */;
+			buildPhases = (
+				7F7EE76F291726EF00338D86 /* Sources */,
+				7F7EE770291726EF00338D86 /* Frameworks */,
+				7F7EE771291726EF00338D86 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7F7EE775291726EF00338D86 /* PBXTargetDependency */,
+			);
+			name = "Food Scheduler SwiftTests";
+			productName = "Food Scheduler SwiftTests";
+			productReference = 7F7EE773291726EF00338D86 /* Food Scheduler SwiftTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		7F7EE77C291726EF00338D86 /* Food Scheduler SwiftUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7F7EE78D291726EF00338D86 /* Build configuration list for PBXNativeTarget "Food Scheduler SwiftUITests" */;
+			buildPhases = (
+				7F7EE779291726EF00338D86 /* Sources */,
+				7F7EE77A291726EF00338D86 /* Frameworks */,
+				7F7EE77B291726EF00338D86 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7F7EE77F291726EF00338D86 /* PBXTargetDependency */,
+			);
+			name = "Food Scheduler SwiftUITests";
+			productName = "Food Scheduler SwiftUITests";
+			productReference = 7F7EE77D291726EF00338D86 /* Food Scheduler SwiftUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7F7EE75A291726EE00338D86 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1410;
+				LastUpgradeCheck = 1410;
+				TargetAttributes = {
+					7F7EE761291726EE00338D86 = {
+						CreatedOnToolsVersion = 14.1;
+					};
+					7F7EE772291726EF00338D86 = {
+						CreatedOnToolsVersion = 14.1;
+						TestTargetID = 7F7EE761291726EE00338D86;
+					};
+					7F7EE77C291726EF00338D86 = {
+						CreatedOnToolsVersion = 14.1;
+						TestTargetID = 7F7EE761291726EE00338D86;
+					};
+				};
+			};
+			buildConfigurationList = 7F7EE75D291726EE00338D86 /* Build configuration list for PBXProject "Food Scheduler Swift" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 7F7EE759291726EE00338D86;
+			productRefGroup = 7F7EE763291726EE00338D86 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7F7EE761291726EE00338D86 /* Food Scheduler Swift */,
+				7F7EE772291726EF00338D86 /* Food Scheduler SwiftTests */,
+				7F7EE77C291726EF00338D86 /* Food Scheduler SwiftUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		7F7EE760291726EE00338D86 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7F7EE76E291726EF00338D86 /* Preview Assets.xcassets in Resources */,
+				7F7EE76A291726EF00338D86 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7F7EE771291726EF00338D86 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7F7EE77B291726EF00338D86 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7F7EE75E291726EE00338D86 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7F7EE768291726EE00338D86 /* ContentView.swift in Sources */,
+				7F7EE766291726EE00338D86 /* Food_Scheduler_SwiftApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7F7EE76F291726EF00338D86 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7F7EE778291726EF00338D86 /* Food_Scheduler_SwiftTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7F7EE779291726EF00338D86 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7F7EE784291726EF00338D86 /* Food_Scheduler_SwiftUITestsLaunchTests.swift in Sources */,
+				7F7EE782291726EF00338D86 /* Food_Scheduler_SwiftUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		7F7EE775291726EF00338D86 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 7F7EE761291726EE00338D86 /* Food Scheduler Swift */;
+			targetProxy = 7F7EE774291726EF00338D86 /* PBXContainerItemProxy */;
+		};
+		7F7EE77F291726EF00338D86 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 7F7EE761291726EE00338D86 /* Food Scheduler Swift */;
+			targetProxy = 7F7EE77E291726EF00338D86 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		7F7EE785291726EF00338D86 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		7F7EE786291726EF00338D86 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		7F7EE788291726EF00338D86 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Food Scheduler Swift/Food_Scheduler_Swift.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Food Scheduler Swift/Preview Content\"";
+				DEVELOPMENT_TEAM = T38DJZB7Q6;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
+				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.roecker.Food-Scheduler-Swift";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		7F7EE789291726EF00338D86 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Food Scheduler Swift/Food_Scheduler_Swift.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Food Scheduler Swift/Preview Content\"";
+				DEVELOPMENT_TEAM = T38DJZB7Q6;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
+				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.roecker.Food-Scheduler-Swift";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		7F7EE78B291726EF00338D86 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = T38DJZB7Q6;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.roecker.Food-Scheduler-SwiftTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Food Scheduler Swift.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Food Scheduler Swift";
+			};
+			name = Debug;
+		};
+		7F7EE78C291726EF00338D86 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = T38DJZB7Q6;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.roecker.Food-Scheduler-SwiftTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Food Scheduler Swift.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Food Scheduler Swift";
+			};
+			name = Release;
+		};
+		7F7EE78E291726EF00338D86 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = T38DJZB7Q6;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.roecker.Food-Scheduler-SwiftUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Food Scheduler Swift";
+			};
+			name = Debug;
+		};
+		7F7EE78F291726EF00338D86 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = T38DJZB7Q6;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.roecker.Food-Scheduler-SwiftUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Food Scheduler Swift";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7F7EE75D291726EE00338D86 /* Build configuration list for PBXProject "Food Scheduler Swift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7F7EE785291726EF00338D86 /* Debug */,
+				7F7EE786291726EF00338D86 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7F7EE787291726EF00338D86 /* Build configuration list for PBXNativeTarget "Food Scheduler Swift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7F7EE788291726EF00338D86 /* Debug */,
+				7F7EE789291726EF00338D86 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7F7EE78A291726EF00338D86 /* Build configuration list for PBXNativeTarget "Food Scheduler SwiftTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7F7EE78B291726EF00338D86 /* Debug */,
+				7F7EE78C291726EF00338D86 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7F7EE78D291726EF00338D86 /* Build configuration list for PBXNativeTarget "Food Scheduler SwiftUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7F7EE78E291726EF00338D86 /* Debug */,
+				7F7EE78F291726EF00338D86 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 7F7EE75A291726EE00338D86 /* Project object */;
+}
