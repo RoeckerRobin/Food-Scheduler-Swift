@@ -1,2 +1,2 @@
-# Food-Schedular-Swift
+# Food-Scheduler-Swift
 The "Food Schedular" app implemented in swift.
