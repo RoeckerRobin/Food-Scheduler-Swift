@@ -11,7 +11,7 @@ import SwiftUI
 struct Food_Scheduler_SwiftApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            FoodTableView()
         }
     }
 }
